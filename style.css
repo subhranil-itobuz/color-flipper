@@ -1,0 +1,43 @@
+.container {
+  margin-top: 20px;
+  height: 95vh;
+  position: relative;
+}
+
+.btn {
+  font-size: 50px;
+  padding: 10px 15px;
+}
+
+.btn:hover {
+  cursor: pointer;
+  background-color: white;
+}
+
+.aqua {
+  background-color: aqua;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.yellow {
+  background-color: yellow;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.green {
+  background-color: green;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+
+.gray {
+  background-color: gray;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
